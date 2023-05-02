@@ -1,0 +1,5 @@
+appName: a-app
+version: 1.0.0
+hostName: example.com
+clusterURL: https://kubernetes.default.svc
+microservice: {}
